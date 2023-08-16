@@ -1,0 +1,15 @@
+<mvc:View controllerName="Quickstart.App" displayBlock="true"
+    xmlns="sap.m"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:l="sap.ui.layout"
+    xmlns:core="sap.ui.core"
+    xmlns:tnt="sap.tnt">
+
+
+    <App id="app">
+        <Page title="Fiori Project">
+            <Button icon="sap-icon://sap-ui5" text="Fiori Project" type="Emphasized" class="sapUiSmallMargin" />
+            <Text text="Warum Funktioniert es nicht?"/>
+        </Page>
+    </App>
+</mvc:View>
